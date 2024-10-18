@@ -1,0 +1,16 @@
+{
+  "name": "pharse",
+  "version": "1.0.0",
+  "main": "menomeric_pharse_generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bip39": "^3.1.0"
+  }
+}
+  
